@@ -1,0 +1,5 @@
+{
+  "name": "Employee Record Management System",
+  "description": "A mini Human Resource Information System (HRIS) to manage employee records, including adding, editing, deleting, and viewing employee data. Features include department management, data visualization dashboards, and role-based access control.",
+  "requestFramePermissions": []
+}
